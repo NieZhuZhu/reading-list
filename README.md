@@ -1,4 +1,4 @@
-# reading-list
+# Reading-List
 
 
 ## Incremental DOM
