@@ -27,6 +27,8 @@
 
 ## React 事件委托的变更
 
+- [replaying events](https://twitter.com/dan_abramov/status/1200118229697486849)
+
 - [React v17.0](https://zh-hans.reactjs.org/blog/2020/10/20/react-v17.html)
 
 - [React v17.0 RC 版本发布：没有新特性](https://zh-hans.reactjs.org/blog/2020/08/10/react-v17-rc.html)
