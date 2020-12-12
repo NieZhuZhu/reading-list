@@ -29,6 +29,8 @@
 
 - [React v17.0](https://zh-hans.reactjs.org/blog/2020/10/20/react-v17.html)
 
+- [React v17.0 RC 版本发布：没有新特性](https://zh-hans.reactjs.org/blog/2020/08/10/react-v17-rc.html)
+
 - [Attach event listeners at the root of the tree instead of document](https://github.com/facebook/react/pull/8117)
 
 - [Not touched, and not clicked component gets a ghost mousedown event](https://github.com/facebook/react/issues/11530)
