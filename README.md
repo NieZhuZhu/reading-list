@@ -24,6 +24,8 @@
 
 - [React rfc](https://github.com/reactjs/rfcs/blob/createlement-rfc/text/0000-create-element-changes.md#motivation)
 
+- [New JSX Enhancements in React 17](https://blog.bitsrc.io/new-jsx-enhancements-in-react-17-e5f64acbea89)
+
 
 ## React 事件委托的变更
 
@@ -52,3 +54,7 @@
 - [Native event.stopPropagation outside of React root cuts out React events](https://github.com/facebook/react/issues/8693)
 
 - [Global event handlers on document.body (or other containing element) run BEFORE react event handlers](https://github.com/facebook/react/issues/7094)
+
+## CSS
+
+- [Improve Page Rendering Speed Using Only CSS](https://blog.bitsrc.io/improve-page-rendering-speed-using-only-css-a61667a16b2)
