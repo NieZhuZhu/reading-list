@@ -37,11 +37,11 @@
 
 - [Declarative API for installing global DOM event handlers](https://github.com/facebook/react/issues/285)
 
-- [Events propagate to nested components after stopPropagation()](https://github.com/facebook/react/issues/1691)
+- [Events propagate to nested components after `stopPropagation()`](https://github.com/facebook/react/issues/1691)
 
 - [e.stopPropagation() seems to not be working as expect.](https://github.com/facebook/react/issues/4335)
 
-- [ancestor's stopPropagation() prevents controlled <select> from working](https://github.com/facebook/react/issues/13451)
+- [ancestor's stopPropagation() prevents controlled `<select>` from working](https://github.com/facebook/react/issues/13451)
 
 - [Event listener attached to `document` will still be called after calling `event.stopPropagation()`](https://github.com/facebook/react/issues/12518)
 
