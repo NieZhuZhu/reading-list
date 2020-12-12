@@ -1,7 +1,8 @@
 # Reading-List
 
-> Record good articles that I see every day surfing the Internet and feel worthy of careful study.
-> If I have time, I will definitely finish reading.
+Record good articles that I see every day surfing the Internet and feel worthy of careful study.
+<br />
+If I have time, I will definitely finish reading.
 
 
 ## Incremental DOM
