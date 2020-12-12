@@ -14,3 +14,5 @@
 - [incremental-dom](http://google.github.io/incremental-dom/#dom-element-updates--reuse)
 
 - [incremental-dom简析](https://yrq110.me/post/front-end/brief-of-incremental-dom/)
+
+- [Incremental vs Virtual DOM](https://blog.bitsrc.io/incremental-vs-virtual-dom-eb7157e43dca)
