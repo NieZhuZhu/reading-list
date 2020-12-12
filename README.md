@@ -23,7 +23,7 @@
 - [Incremental vs Virtual DOM](https://blog.bitsrc.io/incremental-vs-virtual-dom-eb7157e43dca)
 
 
-## React 17.0 JSX 性能优化
+## React 17.0 JSX Performance Enhancements
 
 - [介绍全新的 JSX 转换](https://zh-hans.reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
 
@@ -32,7 +32,7 @@
 - [New JSX Enhancements in React 17](https://blog.bitsrc.io/new-jsx-enhancements-in-react-17-e5f64acbea89)
 
 
-## React 事件委托的变更
+## React 17.0 Changes to Event Delegation
 
 - [replaying events](https://twitter.com/dan_abramov/status/1200118229697486849)
 
