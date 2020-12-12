@@ -1,8 +1,10 @@
-# Reading-List
+<h1 align="center">Reading-List</h1>
 
-Record good articles that I see every day surfing the Internet and feel worthy of careful study.
+<p align="center">Record good articles that I see every day surfing the Internet and feel worthy of careful study.</p>
+<p align="center">If I have time, I will definitely finish reading.</p>
+
 <br />
-If I have time, I will definitely finish reading.
+
 
 
 ## Incremental DOM
