@@ -22,6 +22,12 @@
 
 - [Incremental vs Virtual DOM](https://blog.bitsrc.io/incremental-vs-virtual-dom-eb7157e43dca)
 
+## React Fiber
+
+- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+
+- [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239#heading-1)
+
 
 ## React 17.0 JSX Performance Enhancements
 
