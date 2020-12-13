@@ -28,6 +28,8 @@
 
 - [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239#heading-1)
 
+- [Andrew Clark: What's Next for React — ReactNext 2016](https://www.youtube.com/watch?v=aV1271hd9ew&feature=youtu.be)
+
 
 ## React 17.0 JSX Performance Enhancements
 
