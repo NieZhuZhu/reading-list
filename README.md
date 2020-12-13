@@ -22,6 +22,8 @@
 
 - [Incremental vs Virtual DOM](https://blog.bitsrc.io/incremental-vs-virtual-dom-eb7157e43dca)
 
+- [网上都说操作真实 DOM 慢，但测试结果却比 React 更快，为什么？](https://www.zhihu.com/question/31809713)
+
 ## React Fiber
 
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
