@@ -62,6 +62,28 @@
 
 - [谈谈React事件机制和未来(react-events](https://zhuanlan.zhihu.com/p/78669634)
 
+## ES6 BigInt
+
+- [BigInt MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+
+- [tc39 proposal](https://tc39.es/proposal-bigint/)
+
+- [BigInt: Arbitrary precision integers in JavaScript -  Stage 4](https://github.com/tc39/proposal-bigint/blob/master/README.md)
+
+- [BigInt: Arbitrary precision integers in JavaScript -  Stage 3](https://github.com/tc39/proposal-bigint/blob/master/ADVANCED.md)
+
+- [Implicit integers for JavaScript](https://gist.github.com/rauschma/13d48d1c49615ce2396ce7c9e45d4cd1)
+
+- [Axel Rauschmayer's alternative deserves serious consideration](https://github.com/tc39/proposal-bigint/issues/36)
+
+- [[spec] Normative: Add i64<->BigInt conversion in JS API](https://github.com/WebAssembly/spec/pull/707)
+
+- [Normative: Permit serialization of BigInt](https://github.com/whatwg/html/pull/3480)
+
+- [Allow BigInts as IndexedDB keys](https://github.com/w3c/IndexedDB/pull/231)
+
+- [SQL Anywhere Numeric data types](http://infocenter.sybase.com/help/index.jsp?topic=/com.sybase.help.sqlanywhere.12.0.1/dbreference/bigint.html)
+
 ## CSS
 
 - [Improve Page Rendering Speed Using Only CSS](https://blog.bitsrc.io/improve-page-rendering-speed-using-only-css-a61667a16b2)
@@ -71,3 +93,9 @@
 - [Security Best Practices for Node.js](https://blog.appsignal.com/2020/08/12/security-best-practices-for-nodejs.html)
 
 - [Avoiding Memory Leaks in Node.js: Best Practices for Performance](https://blog.appsignal.com/2020/05/06/avoiding-memory-leaks-in-nodejs-best-practices-for-performance.html)
+
+
+## TC39 
+
+- [TC39](https://tc39.es/)
+- [The TC39 Process](https://tc39.es/process-document/)
