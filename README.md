@@ -24,6 +24,8 @@
 
 - [网上都说操作真实 DOM 慢，但测试结果却比 React 更快，为什么？](https://www.zhihu.com/question/31809713)
 
+- [React Virtual DOM vs Incremental DOM vs Ember’s Glimmer: Fight](https://auth0.com/blog/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/)
+
 ## React Fiber
 
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
