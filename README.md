@@ -26,6 +26,8 @@
 
 - [React Virtual DOM vs Incremental DOM vs Ember’s Glimmer: Fight](https://auth0.com/blog/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/)
 
+- [glimmer](https://github.com/glimmerjs/glimmer.js)
+
 ## React Fiber
 
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
