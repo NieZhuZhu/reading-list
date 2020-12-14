@@ -31,6 +31,11 @@
 - [Glimmer.js Progress Report](https://blog.emberjs.com/2017/10/10/glimmer-progress-report.html) 
 
 
+## React 
+
+- [Under-the-hood](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+
+
 
 ## React Fiber
 
@@ -39,6 +44,12 @@
 - [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239#heading-1)
 
 - [Andrew Clark: What's Next for React — ReactNext 2016](https://www.youtube.com/watch?v=aV1271hd9ew&feature=youtu.be)
+
+- [完全理解React Fiber](http://www.ayqy.net/blog/dive-into-react-fiber/)
+
+- [Lin Clark - A Cartoon Intro to Fiber - React Conf 2017](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+
+- [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
 
 
 ## React 17.0 JSX Performance Enhancements
