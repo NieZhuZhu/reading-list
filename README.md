@@ -51,6 +51,17 @@
 
 - [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
 
+- [React Fiber 原理介绍](https://segmentfault.com/a/1190000018250127)
+
+- [React Fiber](https://juejin.cn/post/6844903582622285831)
+
+- [React Fiber 源码解析](https://musicfe.dev/react-fiber/)
+
+- [理解 React Fiber 架构](https://libin1991.github.io/2019/07/01/%E7%90%86%E8%A7%A3-React-Fiber-%E6%9E%B6%E6%9E%84/)
+
+- [React16源码之React Fiber架构](https://github.com/HuJiaoHJ/blog/issues/7#)
+
+
 
 ## React 17.0 JSX Performance Enhancements
 
