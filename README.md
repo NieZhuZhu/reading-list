@@ -61,6 +61,10 @@
 
 - [React16源码之React Fiber架构](https://github.com/HuJiaoHJ/blog/issues/7#)
 
+## React Concurrent Mode
+- [React 的 Concurrent Mode 是否有过度设计的成分？](https://www.zhihu.com/question/434791954)
+
+- [Why remove time slicing from vue3?](https://github.com/vuejs/rfcs/issues/89)
 
 
 ## React 17.0 JSX Performance Enhancements
