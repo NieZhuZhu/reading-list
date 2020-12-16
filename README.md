@@ -61,6 +61,8 @@
 
 - [React16源码之React Fiber架构](https://github.com/HuJiaoHJ/blog/issues/7#)
 
+- [React Fiber架构](https://zhuanlan.zhihu.com/p/37095662)
+
 ## React Concurrent Mode
 - [React 的 Concurrent Mode 是否有过度设计的成分？](https://www.zhihu.com/question/434791954)
 
