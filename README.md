@@ -39,6 +39,7 @@
 
 - [You’re overusing useMemo: Rethinking Hooks memoization](https://blog.logrocket.com/rethinking-hooks-memoization/?from=singlemessage&isappinstalled=0)
 
+- [How to get previous props/state with React Hooks](https://blog.logrocket.com/what-is-railway-oriented-programming/)
 
 
 ## React Fiber
