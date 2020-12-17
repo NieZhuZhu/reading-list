@@ -68,6 +68,8 @@
 
 - [React Fiber架构](https://zhuanlan.zhihu.com/p/37095662)
 
+- [React Fiber是什么](https://zhuanlan.zhihu.com/p/26027085)
+
 ## React Concurrent Mode
 - [React 的 Concurrent Mode 是否有过度设计的成分？](https://www.zhihu.com/question/434791954)
 
