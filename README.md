@@ -43,6 +43,8 @@
 
 - [React patterns to avoid common pitfalls in local state management](https://blog.logrocket.com/react-patterns-common-pitfalls-local-state-management/)
 
+- [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
+
 
 ## React Fiber
 
@@ -71,6 +73,7 @@
 - [React Fiber架构](https://zhuanlan.zhihu.com/p/37095662)
 
 - [React Fiber是什么](https://zhuanlan.zhihu.com/p/26027085)
+
 
 ## React Concurrent Mode
 - [React 的 Concurrent Mode 是否有过度设计的成分？](https://www.zhihu.com/question/434791954)
