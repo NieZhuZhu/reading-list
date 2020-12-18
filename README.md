@@ -41,6 +41,8 @@
 
 - [How to get previous props/state with React Hooks](https://blog.logrocket.com/what-is-railway-oriented-programming/)
 
+- [React patterns to avoid common pitfalls in local state management](https://blog.logrocket.com/react-patterns-common-pitfalls-local-state-management/)
+
 
 ## React Fiber
 
