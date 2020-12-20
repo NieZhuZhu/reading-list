@@ -118,7 +118,7 @@
 
 - [Global event handlers on document.body (or other containing element) run BEFORE react event handlers](https://github.com/facebook/react/issues/7094)
 
-- [谈谈React事件机制和未来(react-events](https://zhuanlan.zhihu.com/p/78669634)
+- [谈谈React事件机制和未来（react-events）](https://zhuanlan.zhihu.com/p/78669634)
 
 
 ## ES6 BigInt
