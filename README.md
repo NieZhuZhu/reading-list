@@ -143,6 +143,8 @@
 
 - [SQL Anywhere Numeric data types](http://infocenter.sybase.com/help/index.jsp?topic=/com.sybase.help.sqlanywhere.12.0.1/dbreference/bigint.html)
 
+- [从ES2020说起](https://bytedance.feishu.cn/docs/doccn2Ig8hUVNRukPf0U3seUOXb#mctk19)
+
 ## CSS
 
 - [Improve Page Rendering Speed Using Only CSS](https://blog.bitsrc.io/improve-page-rendering-speed-using-only-css-a61667a16b2)
