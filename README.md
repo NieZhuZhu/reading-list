@@ -74,6 +74,10 @@
 
 - [React Fiber是什么](https://zhuanlan.zhihu.com/p/26027085)
 
+## React Server Component 
+
+- [RFC: React Server Components](https://github.com/reactjs/rfcs/pull/188)
+
 
 ## React Concurrent Mode
 - [React 的 Concurrent Mode 是否有过度设计的成分？](https://www.zhihu.com/question/434791954)
