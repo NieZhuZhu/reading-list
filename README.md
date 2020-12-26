@@ -148,7 +148,7 @@
 
 - [SQL Anywhere Numeric data types](http://infocenter.sybase.com/help/index.jsp?topic=/com.sybase.help.sqlanywhere.12.0.1/dbreference/bigint.html)
 
-- [从ES2020说起](https://bytedance.feishu.cn/docs/doccn2Ig8hUVNRukPf0U3seUOXb#mctk19)
+- [从ES2020说起（内部文档）](https://bytedance.feishu.cn/docs/doccn2Ig8hUVNRukPf0U3seUOXb#mctk19)
 
 ## CSS
 
@@ -181,3 +181,5 @@
 - [GraphQL Concepts Visualized](https://www.apollographql.com/blog/the-concepts-of-graphql-bc68bd819be3/)
 
 - [GraphQL: A data query language](https://engineering.fb.com/2015/09/14/core-data/graphql-a-data-query-language/)
+
+- [GraphQL 原理浅析（内部文档）](https://bytedance.feishu.cn/wiki/wikcnqHw6tysstVZIyMMRobgmnf)
