@@ -164,7 +164,9 @@
 ## TC39 
 
 - [TC39](https://tc39.es/)
+
 - [The TC39 Process](https://tc39.es/process-document/)
+
 - [Test 262](https://github.com/tc39/test262)
 
 
@@ -175,3 +177,7 @@
 - [GraphQL Code Generator](https://graphql-code-generator.com/)
 
 - [graphql-request](https://github.com/prisma-labs/graphql-request)
+
+- [GraphQL Concepts Visualized](https://www.apollographql.com/blog/the-concepts-of-graphql-bc68bd819be3/)
+
+- [GraphQL: A data query language](https://engineering.fb.com/2015/09/14/core-data/graphql-a-data-query-language/)
