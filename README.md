@@ -167,6 +167,11 @@
 - [The TC39 Process](https://tc39.es/process-document/)
 - [Test 262](https://github.com/tc39/test262)
 
+
 ## GraphQL
 
--[Introduction to GraphQL](https://graphql.org/learn/)
+- [Introduction to GraphQL](https://graphql.org/learn/)
+
+- [GraphQL Code Generator](https://graphql-code-generator.com/)
+
+- [graphql-request](https://github.com/prisma-labs/graphql-request)
