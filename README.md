@@ -183,3 +183,9 @@
 - [GraphQL: A data query language](https://engineering.fb.com/2015/09/14/core-data/graphql-a-data-query-language/)
 
 - [GraphQL 原理浅析（内部文档）](https://bytedance.feishu.cn/wiki/wikcnqHw6tysstVZIyMMRobgmnf)
+
+
+## asm.js
+
+- [asm.js 和 Emscripten 入门教程](https://www.ruanyifeng.com/blog/2017/09/asmjs_emscripten.html)
+
