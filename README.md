@@ -74,6 +74,7 @@
 
 - [React Fiber是什么](https://zhuanlan.zhihu.com/p/26027085)
 
+- [初探 React Fiber（内部）](https://bytedance.feishu.cn/docs/doccn4D5SlyH4fQSrK7rzYTh8Jb#)
 
 ## React Server Component 
 
