@@ -45,6 +45,8 @@
 
 - [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
 
+- [Build your own React](https://pomb.us/build-your-own-react/)
+
 
 ## React Fiber
 
