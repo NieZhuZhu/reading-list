@@ -30,6 +30,8 @@
 
 - [Glimmer.js Progress Report](https://blog.emberjs.com/2017/10/10/glimmer-progress-report.html) 
 
+- [增量 DOM 与虚拟 DOM 的对比使用](https://juejin.cn/post/6903765877296988174)
+
 
 ## React 
 
